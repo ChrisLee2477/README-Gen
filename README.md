@@ -1,9 +1,11 @@
 # README-gen
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
       
       This is a README generator that generates a readme for people
+      
+      To see how it works https://drive.google.com/file/d/1ia6IaOn3TzjG9zlfIV6UMRjVR7zjVzIN/view
+      
       
   ## Table of Contents
       
@@ -25,19 +27,20 @@
       
   ## Usage
       
-      This repo is for lazy people
+      This repo is to help people with creating readme files in a flash
       
       
   ## License
       
-  MIT License
-  (https://opensource.org/licenses/MIT)
+  N/A
   
       
       
   ## Contributing
       
-      Please Help me
+      Colombia University
+      GitHub
+      
       
   ## Tests
       
